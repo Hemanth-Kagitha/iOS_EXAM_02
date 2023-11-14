@@ -1,5 +1,3 @@
 # firstrepo
-Hemanth Sai Kagitha, This is the First day in webapps class.
-.
-Excused From LAb1/Assignment1
-
+11/14/2023
+Mobile Computing iOS - Exam 2
